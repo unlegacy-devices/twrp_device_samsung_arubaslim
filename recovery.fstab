@@ -7,3 +7,4 @@
 /boot         emmc  /dev/block/mmcblk0p8
 /recovery     emmc  /dev/block/mmcblk0p13
 /external_sd  vfat  /dev/block/mmcblk1p1   flags=display="Micro SD";storage;wipeingui;removable
+/sdcard       datamedia /dev/null
